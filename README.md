@@ -136,6 +136,26 @@ The key outcomes include:
 - Demonstrated an end-to-end workflow from raw data to business intelligence
 
 ---
+## 👨‍💻 Author
+
+**Anzar Khan**
+
+B.Tech Computer Science & Engineering  
+Data Analytics | Python | SQL | Power BI
+
+---
+
+## 📋 Project Summary
+
+**Customer Shopping Behavior Analysis** is an end-to-end Data Analytics project focused on understanding customer purchasing patterns and generating meaningful business insights.
+
+The project uses **Python and Pandas** for data cleaning, transformation, exploration, and analysis. **SQL and PostgreSQL** are used to perform business-focused analysis related to sales, revenue, product categories, customer demographics, subscriptions, shipping preferences, and review ratings.
+
+The analyzed data is then visualized using **Power BI** through an interactive dashboard containing KPIs, charts, filters, and slicers.
+
+Overall, this project demonstrates the complete data analytics workflow:
+
+**Raw Data → Python & Pandas → SQL & PostgreSQL → Business Analysis → Power BI Dashboard → Business Insights**
 
 ## 🔄 End-to-End Analytics Workflow
 
@@ -157,23 +177,4 @@ Customer Shopping Dataset
  Interactive Dashboard
           ↓
  Business Insights
-## 👨‍💻 Author
 
-**Anzar Khan**
-
-B.Tech Computer Science & Engineering  
-Data Analytics | Python | SQL | Power BI
-
----
-
-## 📋 Project Summary
-
-**Customer Shopping Behavior Analysis** is an end-to-end Data Analytics project focused on understanding customer purchasing patterns and generating meaningful business insights.
-
-The project uses **Python and Pandas** for data cleaning, transformation, exploration, and analysis. **SQL and PostgreSQL** are used to perform business-focused analysis related to sales, revenue, product categories, customer demographics, subscriptions, shipping preferences, and review ratings.
-
-The analyzed data is then visualized using **Power BI** through an interactive dashboard containing KPIs, charts, filters, and slicers.
-
-Overall, this project demonstrates the complete data analytics workflow:
-
-**Raw Data → Python & Pandas → SQL & PostgreSQL → Business Analysis → Power BI Dashboard → Business Insights**
