@@ -135,15 +135,6 @@ The key outcomes include:
 - Built an interactive Power BI dashboard for data-driven analysis
 - Demonstrated an end-to-end workflow from raw data to business intelligence
 
----
-## 👨‍💻 Author
-
-**Anzar Khan**
-
-B.Tech Computer Science & Engineering  
-Data Analytics | Python | SQL | Power BI
-
----
 
 ## 📋 Project Summary
 
@@ -156,6 +147,16 @@ The analyzed data is then visualized using **Power BI** through an interactive d
 Overall, this project demonstrates the complete data analytics workflow:
 
 **Raw Data → Python & Pandas → SQL & PostgreSQL → Business Analysis → Power BI Dashboard → Business Insights**
+
+---
+## 👨‍💻 Author
+
+**Anzar Khan**
+
+B.Tech Computer Science & Engineering  
+Data Analytics | Python | SQL | Power BI
+
+---
 
 ## 🔄 End-to-End Analytics Workflow
 
