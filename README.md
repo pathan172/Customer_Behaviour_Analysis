@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-An end-to-end **Data Analytics project** focused on analyzing customer shopping behavior, purchasing patterns, sales, revenue, subscriptions, and customer preferences using **Python, Pandas, SQL, PostgreSQL, and Power BI**.
+An end-to-end **Data Analytics project** focused on analyzing customer shopping behavior, purchasing patterns, sales, revenue, subscriptions, and customer preferences using **Python, Pandas, PostgreSQL, and Power BI**.
 
 ---
 
@@ -32,7 +32,6 @@ The project focuses on:
 - 🐍 Python
 - 🐼 Pandas
 - 📓 Jupyter Notebook
-- 🗄️ SQL
 - 🐘 PostgreSQL
 - 📊 Power BI
 
@@ -44,7 +43,7 @@ The project focuses on:
 |------|-------------|
 | `customer_shopping_behavior.csv` | Customer shopping dataset |
 | `python_queries.ipynb` | Python and Pandas analysis |
-| `customer_behavior_sql_queries.sql` | SQL queries used for analysis |
+| `customer_behavior_sql_queries.sql` | POSTGRESQL queries used for analysis |
 | `customer_behavior_dashboard.pbix` | Interactive Power BI dashboard |
 | `Business Problem Document.pdf` | Business problem documentation |
 | `Customer-Shopping-Behavior-Analysis.pdf` | Project analysis documentation |
@@ -73,7 +72,7 @@ The complete analysis is available in:
 
 ## 🗄️ SQL Analysis
 
-SQL and PostgreSQL were used to perform structured analysis and answer business-related questions.
+PostgreSQL were used to perform structured analysis and answer business-related questions.
 
 ### Analysis Areas
 
