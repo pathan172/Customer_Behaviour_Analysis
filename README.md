@@ -24,6 +24,7 @@ The project focuses on:
 - Analyzing customer review ratings
 - Identifying meaningful business insights
 - Building an interactive Power BI dashboard
+- First practical exposure.
 
 ---
 
