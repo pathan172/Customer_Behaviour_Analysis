@@ -64,6 +64,7 @@ Python and Pandas were used to explore, clean, transform, and analyze the custom
 - Customer behavior analysis
 - Identifying patterns and trends
 - Generating useful insights
+- understanding of insights
 
 The complete analysis is available in:
 
